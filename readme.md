@@ -62,7 +62,7 @@ python prdict.py
 ```
 
 
-more about the data you could read the file [here](./data_set/cifar_10/readme.html).
+more about the data you could read the file [here](http://www.cs.toronto.edu/~kriz/cifar.html).
 
 The other option is that you bring your own method of loading images and providing batches of images and labels, but then you have to adapt the code on a 
 few lines.
